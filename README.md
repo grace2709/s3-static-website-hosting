@@ -45,3 +45,9 @@ This demonstration uses public read access. Only files intended for public viewi
 - Create a custom domain.
 - Configure HTTPS through CloudFront.
 - Automate deployment using a CI/CD pipeline.
+
+
+## Website Screenshot
+
+![My S3 Static Website](s3-screenshot.png)
+  

@@ -1,4 +1,3 @@
-# s3-static-website-hosting
 # Static Website Hosting on Amazon S3
 
 ## Project Overview
